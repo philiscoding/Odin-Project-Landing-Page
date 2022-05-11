@@ -1,0 +1,8 @@
+HERO AND FOOTER background color #1F2937
+HERO TEXT 48px extra-bold #F9FAF8
+Hero secondary text, heade rlink text 18px #E5E7EB
+header logo text 24px #F9FAF8
+Button color, call to action background color #3882F6
+info header text 36px extra bold #1F2937
+quote section bg color #E5E7EB
+quote text 36px light italic #1F2937
